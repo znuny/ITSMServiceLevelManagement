@@ -9,4 +9,4 @@ deploy:
     GIT_STRATEGY: clone
     GIT_CHECKOUT: "false"
   script:
-    - sh /sync_repo.sh git@github.com:znuny/GeneralCatalog.git
+    - sh /sync_repo.sh git@github.com:znuny/$CI_PROJECT_NAME.git
