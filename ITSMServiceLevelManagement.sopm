@@ -2,7 +2,8 @@
 <otrs_package version="1.0">
     <Name>ITSMServiceLevelManagement</Name>
     <!-- nofilter(TidyAll::Plugin::OTRS::SOPM::DocumentationPresent) -->
-    <Version>6.3.0</Version>
+    <Version>6.3.1</Version>
+    <ChangeLog Version="6.3.1" Date="2022-03-18 15:01:47 +0100">Ported to 6.3.</ChangeLog>
     <ChangeLog Version="6.2.1" Date="2021-11-09 12:41:24 +0100">Ported to 6.2</ChangeLog>
     <ChangeLog Version="6.1.1" Date="2021-09-14 13:25:27 +0200">Ported to 6.1</ChangeLog>
     <Framework>6.3.x</Framework>
