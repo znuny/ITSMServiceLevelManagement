@@ -18,6 +18,7 @@
     <ChangeLog Version="6.2.1" Date="2021-11-09 12:41:24 +0100">Ported to 6.2</ChangeLog>
     <ChangeLog Version="6.1.1" Date="2021-09-14 13:25:27 +0200">Ported to 6.1</ChangeLog>
     <Filelist>
+        <File Permission="660" Location="scripts/test/var/packagesetup/ITSMServiceLevelManagement.t"/>
         <File Permission="660" Location="var/stats/ITSMStats-001-Ticket.xml"/>
         <File Permission="660" Location="var/stats/ITSMStats-002-Ticket.xml"/>
         <File Permission="660" Location="var/stats/ITSMStats-003-Ticket.xml"/>
