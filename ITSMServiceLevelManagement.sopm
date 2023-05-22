@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <otrs_package version="1.0">
     <Name>ITSMServiceLevelManagement</Name>
-    <Version>6.5.1</Version>
+    <Version>7.0.1</Version>
     <Framework>7.0.x</Framework>
     <PackageRequired Version="7.0.1">ITSMCore</PackageRequired>
     <Vendor>Znuny</Vendor>
@@ -11,6 +11,7 @@
     <Description Lang="de">Das OTRS::ITSM Service Level Management Paket.</Description>
     <Description Lang="es">El paquete OTRS::ITSM Service Level Management.</Description>
     <Description Lang="hu">Az OTRS::ITSM szolgáltatásszint-menedzsment csomag.</Description>
+    <ChangeLog Version="7.0.1" Date="2023-05-22 16:07:58 +0200">Initial release for Znuny 7.0.</ChangeLog>
     <ChangeLog Version="6.5.1" Date="2023-02-20 15:11:56 +0100">Initial release for Znuny 6.5.</ChangeLog>
     <ChangeLog Version="6.4.3" Date="2022-11-09 09:34:48 +0100">Updated translations.</ChangeLog>
     <ChangeLog Version="6.4.2" Date="2022-07-29 09:07:11 +0200">Initial release for Znuny 6.4.2.</ChangeLog>
