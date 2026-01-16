@@ -2,15 +2,15 @@
 <otrs_package version="1.0">
     <Name>ITSMServiceLevelManagement</Name>
     <Version>7.2.1</Version>
-    <Framework>7.2.x</Framework>
-    <PackageRequired Version="7.2.1">ITSMCore</PackageRequired>
+    <Framework>7.3.x</Framework>
+    <PackageRequired Version="7.3.1">ITSMCore</PackageRequired>
     <Vendor>Znuny</Vendor>
     <URL>https://www.znuny.org/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</License>
-    <Description Lang="en">The OTRS::ITSM Service Level Management package.</Description>
-    <Description Lang="de">Das OTRS::ITSM Service Level Management Paket.</Description>
-    <Description Lang="es">El paquete OTRS::ITSM Service Level Management.</Description>
-    <Description Lang="hu">Az OTRS::ITSM szolgáltatásszint-menedzsment csomag.</Description>
+    <Description Lang="en">The ITSM Service Level Management package.</Description>
+    <Description Lang="de">Das ITSM Service Level Management Paket.</Description>
+    <Description Lang="es">El paquete ITSM Service Level Management.</Description>
+    <Description Lang="hu">Az ITSM szolgáltatásszint-menedzsment csomag.</Description>
     <ChangeLog Version="7.2.1" Date="2025-09-05 11:33:02 +0200">Initial release for Znuny 7.2.</ChangeLog>
     <ChangeLog Version="7.1.1" Date="2024-09-09 10:50:12 +0200">Initial release for Znuny 7.1.</ChangeLog>
     <ChangeLog Version="7.0.1" Date="2023-05-22 16:07:58 +0200">Initial release for Znuny 7.0.</ChangeLog>
@@ -120,7 +120,7 @@
         You are about to install the Znuny package ITSMServiceLevelManagement.<br/>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -133,7 +133,7 @@
         Sie sind im Begriff das Znuny-Paket ITSMServiceLevelManagement zu installieren.<br>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -146,7 +146,7 @@
         Usted esta apunto de instalar el paquete ITSMServiceLevelManagement de Znuny.<br/>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -159,7 +159,7 @@
         Ön az ITSMServiceLevelManagement Znuny csomag telepítésére készül.<br/>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -172,7 +172,7 @@
         The statistics that were installed by this package will be available in the menu item 'Stats'.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -185,7 +185,7 @@
         Im Menü-Punkt 'Statistik' sind die von diesem Paket installierten Statistiken verfügbar.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -198,7 +198,7 @@
         Las estadísticas que serán instaladas mediante este paquete estarán disponibles en el menú 'Stats'.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -211,7 +211,7 @@
         A csomag által telepített statisztikák a „Statisztikák” menüpontban lesznek elérhetők.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroInstall>
@@ -224,7 +224,7 @@
         You are about to upgrade the Znuny package ITSMServiceLevelManagement.<br/>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUpgrade>
@@ -237,7 +237,7 @@
         Sie sind im Begriff das Znuny-Paket ITSMServiceLevelManagement zu aktualisieren.<br/>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUpgrade>
@@ -250,7 +250,7 @@
         Usted esta apunto de actualizar el paquete ITSMServiceLevelManagement de Znuny.<br/>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUpgrade>
@@ -263,7 +263,7 @@
         Ön az ITSMServiceLevelManagement Znuny csomag frissítésére készül.<br/>
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUpgrade>
@@ -276,7 +276,7 @@
         The statistics that are associated with this package, will no longer be available if the package is uninstalled.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUninstall>
@@ -289,7 +289,7 @@
         Nach der Deinstallation sind die von diesem Paket installierten Statistiken nicht mehr verfügbar.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUninstall>
@@ -302,7 +302,7 @@
         Las estadísticas asociadas a este paquete no estarán disponibles si desinstala el paquete.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUninstall>
@@ -315,7 +315,7 @@
         Az ehhez a csomaghoz hozzárendelt statisztikák többé nem lesznek elérhetők, ha a csomag eltávolításra kerül.
         <br/>
         <br/>
-        ((enjoy))<br/>
+        <br/>
         <br/>
 
     ]]></IntroUninstall>
