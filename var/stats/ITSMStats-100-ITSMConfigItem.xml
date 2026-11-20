@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<otrs_stats>
+<znuny_stats>
 <Cache>0</Cache>
 <Description>Total number of all config items ever created per Class and State.
 
@@ -28,4 +28,4 @@ Restrictions:
 <UseAsXvalue Element="ClassIDs" Fixed="1">
 </UseAsXvalue>
 <Valid>1</Valid>
-</otrs_stats>
+</znuny_stats>

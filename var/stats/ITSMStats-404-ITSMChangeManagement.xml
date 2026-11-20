@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<otrs_stats>
+<znuny_stats>
 <Cache>0</Cache>
 <Description>This report calculates all tickets of the chosen types and all changes in the system.</Description>
 <File></File>
@@ -31,4 +31,4 @@
 <SelectedValues>Day</SelectedValues>
 </UseAsXvalue>
 <Valid>1</Valid>
-</otrs_stats>
+</znuny_stats>

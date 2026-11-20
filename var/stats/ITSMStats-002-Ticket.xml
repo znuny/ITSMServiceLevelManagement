@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<otrs_stats>
+<znuny_stats>
 <Cache>0</Cache>
 <Description>Total number of all tickets ever created per Ticket-Type and State.
 
@@ -29,4 +29,4 @@ Restrictions:
 <UseAsXvalue Element="TypeIDs" Fixed="1">
 </UseAsXvalue>
 <Valid>1</Valid>
-</otrs_stats>
+</znuny_stats>

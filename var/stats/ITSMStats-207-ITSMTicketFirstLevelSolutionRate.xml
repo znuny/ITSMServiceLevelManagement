@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<otrs_stats>
+<znuny_stats>
 <Cache>0</Cache>
 <Description>First level solution rate for all tickets created in a specific time period per Ticket-Type and Priority.
 
@@ -40,4 +40,4 @@ Restrictions:
 <SelectedValues>3</SelectedValues>
 </UseAsXvalue>
 <Valid>1</Valid>
-</otrs_stats>
+</znuny_stats>
